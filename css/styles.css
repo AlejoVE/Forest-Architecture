@@ -254,6 +254,12 @@ img {
 	text-align: center;
 }
 
+@media (min-width: 768px) {
+	.content-about-us h2 {
+		text-align: left;
+	}
+}
+
 /* MODELS */
 
 main h2 {
